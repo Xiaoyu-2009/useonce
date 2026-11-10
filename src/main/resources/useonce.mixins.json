@@ -23,6 +23,7 @@
     "FishingHookMixin",
     "HopperBlockEntityMixin",
     "ItemStackMixin",
+    "LivingEntityMixin",
     "PiglinAiMixin",
     "PlayerEnderChestContainerAccessor",
     "ResultSlotMixin",

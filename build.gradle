@@ -24,6 +24,9 @@ repositories {
 }
 
 dependencies {
+    // 凋灵风暴
+    implementation files("libs/witherstormmod-1.21.1-5.0-pre8-all.jar")
+
     // JEI
     runtimeOnly("mezz.jei:jei-${minecraft_version}-neoforge:19.25.0.322")
 

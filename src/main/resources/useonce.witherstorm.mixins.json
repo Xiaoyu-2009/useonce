@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "minVersion": "0.8.5",
+  "package": "dev.xiaoyu.useonce.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AmuletItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
