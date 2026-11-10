@@ -1,0 +1,29 @@
+# Main Class
+cpw.mods.bootstraplauncher.BootstrapLauncher
+
+# NeoForge Run-Type Program Arguments
+--launchTarget
+forgedatadev
+--assetIndex
+17
+--assetsDir
+C:\\Users\\Xiaoyu_2009\\.gradle\\caches\\neoformruntime\\assets
+--gameDir
+.
+--fml.fmlVersion
+4.0.41
+--fml.mcVersion
+1.21.1
+--fml.neoForgeVersion
+21.1.194
+--fml.neoFormVersion
+20240808.144430
+
+# User Supplied Program Arguments
+--mod
+useonce
+--all
+--output
+D:\\桌面\\自制模组\\重要的\\一次性使用\\useonce-1.21.1-NeoForge\\src\\generated\\resources
+--existing
+D:\\桌面\\自制模组\\重要的\\一次性使用\\useonce-1.21.1-NeoForge\\src\\main\\resources
